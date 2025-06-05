@@ -45,14 +45,13 @@ The core goal was to develop and deploy a machine learning model that predicts p
 
 ---
 
-## 🚀 Streamlit App
+## 🚀 Run the Streamlit App
 
-The live Streamlit app allows users to:
-- Enter a beauty product review.
-- Select their **skin tone** and **skin type**.
-- Get a real-time prediction of the product rating based on the review content.
+Try out the interactive app that predicts beauty product ratings based on reviews and user skin info!
 
-> **To run locally:**
+### Run Locally
+
+Make sure you have the environment ready, then run:
 
 ```bash
 streamlit run app.py
