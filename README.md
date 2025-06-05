@@ -55,3 +55,8 @@ Make sure you have the environment ready, then run:
 
 ```bash
 streamlit run app.py
+
+## Live Demo
+No setup needed! Visit the live app hosted on Streamlit Cloud:
+
+https://finalprojectsephora-5dasnuys74cmmxdz7xm2gv.streamlit.app/
