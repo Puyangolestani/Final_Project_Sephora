@@ -55,7 +55,7 @@ Make sure you have the environment ready, then run:
 
 ```bash
 streamlit run app.py
-
+```
 ---
 
 ## 🚀 Live Demo
