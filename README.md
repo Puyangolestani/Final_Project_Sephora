@@ -62,5 +62,5 @@ streamlit run app.py
 
 No setup needed! You can try the interactive app directly online on Streamlit Cloud:
 
-[Live Demo on Streamlit Cloud](https://finalprojectsephora-5dasnuys74cmmxdz7xm2gv.streamlit.app/)
+[Live Demo on Streamlit Cloud](https://finalprojectsephora-x6ecbadmyx348qwtig9wr4.streamlit.app/)
 
